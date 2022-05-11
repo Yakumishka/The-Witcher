@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fon2.jpg</file>
+        <file>55.jpg</file>
+        <file>22.png</file>
+        <file>33.png</file>
+        <file>44.png</file>
+        <file>22_1.png</file>
+        <file>33_1.png</file>
+        <file>44_1.png</file>
+        <file>66.jpg</file>
+        <file>77.jpg</file>
+        <file>99.jpg</file>
+        <file>11.png</file>
+        <file>111.png</file>
+        <file>111_1.png</file>
+        <file>222.png</file>
+        <file>222_1.png</file>
+        <file>11_1.png</file>
+    </qresource>
+</RCC>
